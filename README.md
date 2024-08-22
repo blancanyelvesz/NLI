@@ -55,3 +55,4 @@ Also, if ``(-s | --save)`` is included in the command when running the code, res
 - A confusion matrix will be shown to the user and saved as ``confusion_matrix_[ALGORITHM]_[LEVEL].png``.
 
 This allows the user to quickly see and compare the results given by different methods.
+The results folder is already available in this repository.
